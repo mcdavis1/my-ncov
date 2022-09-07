@@ -2,7 +2,7 @@
 
 <!-- TODO: update links -->
 
-File paths in the [config files] must start with the [analysis directory]. For example, in the tutorial:
+File paths in the [config files] must start with the correct and updated [analysis directory]. For example, in the tutorial the config file has this line:
 
 ```yaml
 auspice_config: ncov-tutorial/auspice-config-custom-data.json
